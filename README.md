@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Data Structures and Algorithms.
 - 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on diffrent kinds of projects(DSA, Web development, Data Science/Machine Learning)
+- 👯 I’m looking to collaborate on diffrent kinds of projects( Web development)
 - 🤔 I’m looking for help with Flutter development.
 - 💬 Ask me about anything, I'm happy to help.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love programming, coffee, cricket and powerlifting.
+- ⚡ Fun fact: I love programming, cricket .
 - ⚡ Fun fact: I love <b>Programming</b>, <b>Cricket</b> and <b>Weight Lifting</b>.
 ### Tools I work upon : 🛠
 
